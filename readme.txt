@@ -1,0 +1,8 @@
+- import sqlalchemy
+- create engine
+- creat session
+- create class (model) represent to Database Table
+- Insert
+- Query
+- Update
+- Delete
